@@ -26,7 +26,7 @@ This project is a simple authentication UI built using HTML, CSS, and Bootstrap.
 ![Dashboard](screenshots/dashboard.png)
 
 ### Forgot-Password Page
-![forgot-Password](screenshots/forgot password.png)
+![forgot-Password](screenshots/forgot-password.png)
 
 ### Reset-Password Page
-![reset-Password](screenshots/reset password.png)
+![reset-Password](screenshots/reset-password.png)
